@@ -1,5 +1,5 @@
 # FEWZ
-Prerequirement: Since we need to use the LHAPDF under slc7_amd64_gcc900, we need to set up the environment
+Prerequirement for installation of FEWZ: Since we need to use the LHAPDF under slc7_amd64_gcc900, we need to set up the environment
 ```console
 cmsrel CMSSW_12_0_1 
 cd CMSSW_12_0_1/src 
